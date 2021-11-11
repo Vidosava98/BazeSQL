@@ -1,0 +1,72 @@
+C:\Users\Aleksandar Arsic\source\repos\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\OdrzavanjePuteva.exe.config
+C:\Users\Aleksandar Arsic\source\repos\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\OdrzavanjePuteva.exe
+C:\Users\Aleksandar Arsic\source\repos\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\OdrzavanjePuteva.pdb
+C:\Users\Aleksandar Arsic\source\repos\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Aleksandar Arsic\source\repos\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\FluentNHibernate.dll
+C:\Users\Aleksandar Arsic\source\repos\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\Iesi.Collections.dll
+C:\Users\Aleksandar Arsic\source\repos\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\NHibernate.dll
+C:\Users\Aleksandar Arsic\source\repos\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Aleksandar Arsic\source\repos\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\Remotion.Linq.dll
+C:\Users\Aleksandar Arsic\source\repos\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Aleksandar Arsic\source\repos\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Aleksandar Arsic\source\repos\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\FluentNHibernate.xml
+C:\Users\Aleksandar Arsic\source\repos\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\Iesi.Collections.xml
+C:\Users\Aleksandar Arsic\source\repos\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\NHibernate.xml
+C:\Users\Aleksandar Arsic\source\repos\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\Remotion.Linq.xml
+C:\Users\Aleksandar Arsic\source\repos\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Aleksandar Arsic\source\repos\OdrzavanjePuteva\OdrzavanjePuteva\obj\Debug\OdrzavanjePuteva.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandar Arsic\source\repos\OdrzavanjePuteva\OdrzavanjePuteva\obj\Debug\OdrzavanjePuteva.Form1.resources
+C:\Users\Aleksandar Arsic\source\repos\OdrzavanjePuteva\OdrzavanjePuteva\obj\Debug\OdrzavanjePuteva.Properties.Resources.resources
+C:\Users\Aleksandar Arsic\source\repos\OdrzavanjePuteva\OdrzavanjePuteva\obj\Debug\OdrzavanjePuteva.csproj.GenerateResource.cache
+C:\Users\Aleksandar Arsic\source\repos\OdrzavanjePuteva\OdrzavanjePuteva\obj\Debug\OdrzavanjePuteva.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar Arsic\source\repos\OdrzavanjePuteva\OdrzavanjePuteva\obj\Debug\OdrzavanjePuteva.csproj.CopyComplete
+C:\Users\Aleksandar Arsic\source\repos\OdrzavanjePuteva\OdrzavanjePuteva\obj\Debug\OdrzavanjePuteva.exe
+C:\Users\Aleksandar Arsic\source\repos\OdrzavanjePuteva\OdrzavanjePuteva\obj\Debug\OdrzavanjePuteva.pdb
+C:\Users\Ganic\Desktop\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\OdrzavanjePuteva.exe.config
+C:\Users\Ganic\Desktop\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\OdrzavanjePuteva.exe
+C:\Users\Ganic\Desktop\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\OdrzavanjePuteva.pdb
+C:\Users\Ganic\Desktop\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Ganic\Desktop\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\FluentNHibernate.dll
+C:\Users\Ganic\Desktop\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\Iesi.Collections.dll
+C:\Users\Ganic\Desktop\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\NHibernate.dll
+C:\Users\Ganic\Desktop\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Ganic\Desktop\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\Remotion.Linq.dll
+C:\Users\Ganic\Desktop\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Ganic\Desktop\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Ganic\Desktop\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\FluentNHibernate.xml
+C:\Users\Ganic\Desktop\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\Iesi.Collections.xml
+C:\Users\Ganic\Desktop\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\NHibernate.xml
+C:\Users\Ganic\Desktop\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\Remotion.Linq.xml
+C:\Users\Ganic\Desktop\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Ganic\Desktop\OdrzavanjePuteva\OdrzavanjePuteva\obj\Debug\OdrzavanjePuteva.csprojAssemblyReference.cache
+C:\Users\Ganic\Desktop\OdrzavanjePuteva\OdrzavanjePuteva\obj\Debug\OdrzavanjePuteva.Form1.resources
+C:\Users\Ganic\Desktop\OdrzavanjePuteva\OdrzavanjePuteva\obj\Debug\OdrzavanjePuteva.Properties.Resources.resources
+C:\Users\Ganic\Desktop\OdrzavanjePuteva\OdrzavanjePuteva\obj\Debug\OdrzavanjePuteva.csproj.GenerateResource.cache
+C:\Users\Ganic\Desktop\OdrzavanjePuteva\OdrzavanjePuteva\obj\Debug\OdrzavanjePuteva.csproj.CoreCompileInputs.cache
+C:\Users\Ganic\Desktop\OdrzavanjePuteva\OdrzavanjePuteva\obj\Debug\OdrzavanjePuteva.csproj.CopyComplete
+C:\Users\Ganic\Desktop\OdrzavanjePuteva\OdrzavanjePuteva\obj\Debug\OdrzavanjePuteva.exe
+C:\Users\Ganic\Desktop\OdrzavanjePuteva\OdrzavanjePuteva\obj\Debug\OdrzavanjePuteva.pdb
+C:\Users\arsic\Downloads\OdrzavanjePuteva\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\OdrzavanjePuteva.exe.config
+C:\Users\arsic\Downloads\OdrzavanjePuteva\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\OdrzavanjePuteva.exe
+C:\Users\arsic\Downloads\OdrzavanjePuteva\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\OdrzavanjePuteva.pdb
+C:\Users\arsic\Downloads\OdrzavanjePuteva\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\Antlr3.Runtime.dll
+C:\Users\arsic\Downloads\OdrzavanjePuteva\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\FluentNHibernate.dll
+C:\Users\arsic\Downloads\OdrzavanjePuteva\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\Iesi.Collections.dll
+C:\Users\arsic\Downloads\OdrzavanjePuteva\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\NHibernate.dll
+C:\Users\arsic\Downloads\OdrzavanjePuteva\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\arsic\Downloads\OdrzavanjePuteva\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\Remotion.Linq.dll
+C:\Users\arsic\Downloads\OdrzavanjePuteva\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\arsic\Downloads\OdrzavanjePuteva\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\Antlr3.Runtime.xml
+C:\Users\arsic\Downloads\OdrzavanjePuteva\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\FluentNHibernate.xml
+C:\Users\arsic\Downloads\OdrzavanjePuteva\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\Iesi.Collections.xml
+C:\Users\arsic\Downloads\OdrzavanjePuteva\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\NHibernate.xml
+C:\Users\arsic\Downloads\OdrzavanjePuteva\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\Remotion.Linq.xml
+C:\Users\arsic\Downloads\OdrzavanjePuteva\OdrzavanjePuteva\OdrzavanjePuteva\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\arsic\Downloads\OdrzavanjePuteva\OdrzavanjePuteva\OdrzavanjePuteva\obj\Debug\OdrzavanjePuteva.csprojAssemblyReference.cache
+C:\Users\arsic\Downloads\OdrzavanjePuteva\OdrzavanjePuteva\OdrzavanjePuteva\obj\Debug\OdrzavanjePuteva.Form1.resources
+C:\Users\arsic\Downloads\OdrzavanjePuteva\OdrzavanjePuteva\OdrzavanjePuteva\obj\Debug\OdrzavanjePuteva.Properties.Resources.resources
+C:\Users\arsic\Downloads\OdrzavanjePuteva\OdrzavanjePuteva\OdrzavanjePuteva\obj\Debug\OdrzavanjePuteva.csproj.GenerateResource.cache
+C:\Users\arsic\Downloads\OdrzavanjePuteva\OdrzavanjePuteva\OdrzavanjePuteva\obj\Debug\OdrzavanjePuteva.csproj.CoreCompileInputs.cache
+C:\Users\arsic\Downloads\OdrzavanjePuteva\OdrzavanjePuteva\OdrzavanjePuteva\obj\Debug\OdrzavanjePuteva.csproj.CopyComplete
+C:\Users\arsic\Downloads\OdrzavanjePuteva\OdrzavanjePuteva\OdrzavanjePuteva\obj\Debug\OdrzavanjePuteva.exe
+C:\Users\arsic\Downloads\OdrzavanjePuteva\OdrzavanjePuteva\OdrzavanjePuteva\obj\Debug\OdrzavanjePuteva.pdb
